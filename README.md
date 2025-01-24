@@ -1,7 +1,8 @@
 # Arithmetic Arranger
 
 ## Overview
-This project was created as part of the FreeCodeCamp curriculum to complete certification requirements. It formats and arranges arithmetic problems for display, supporting addition and subtraction operations.
+This project was created as part of the FreeCodeCamp (The Scientific Computing with Python) curriculum to complete certification requirements. It formats and arranges arithmetic problems for display, supporting addition and subtraction operations.
+
 
 ## Features
 - Accepts up to 5 arithmetic problems at a time.
